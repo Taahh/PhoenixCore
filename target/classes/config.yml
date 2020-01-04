@@ -1,0 +1,19 @@
+# Phoenix Core v1.10 #
+#    First Plugin    #
+#   Phoenix Series   #
+
+# # # PhoenixCore General # # #
+phoenixcore:
+  general:
+    nickname-color: '&c'
+  vault:
+    enabled: false
+    economy: # dollars, coins, euros, etc. this will go after the amount for the currency
+      enabled: false
+      currency: ''
+    chat:
+      enabled: false
+      format: ''
+
+
+
